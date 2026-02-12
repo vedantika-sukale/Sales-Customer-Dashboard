@@ -20,7 +20,7 @@ It enables dynamic exploration through filters and parameters, allowing users to
 ### 🔹 Customer Dashboard
 ![Customer Dashboard](images/dashboard2.png)
 
-> 📌 Make sure your screenshots are stored inside an `images` folder in your repository.
+
 
 ---
 
@@ -106,8 +106,4 @@ Using this dashboard, stakeholders can:
 
 ---
 
-## 📥 How to Use
 
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
